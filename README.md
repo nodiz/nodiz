@@ -5,8 +5,8 @@
   <img src="https://github.com/nodiz/github-stats/blob/master/generated/overview.svg" />
 </div>
 
-- Come play some chess! 
-    [<img src='https://github.com/simple-icons/simple-icons/blob/develop/icons/lichess.svg' alt='lichess' height='40'>](https://lichess.org/@/nicostf) 
+- Come play some chess!                  
+    [<img src='https://github.com/simple-icons/simple-icons/blob/develop/icons/lichess.svg' alt='lichess' height='20'>](https://lichess.org/@/nicostf) 
 
 
 
