@@ -13,6 +13,8 @@
     [<img src='https://github.com/simple-icons/simple-icons/blob/develop/icons/lichess.svg' alt='lichess' height='40'>](https://lichess.org/@/nicostf) 
 
 
+<!--START_SECTION:activity-->
+
 <!--
 - :trophy: Latest achievement:
 
