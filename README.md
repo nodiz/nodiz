@@ -5,10 +5,7 @@
   <img src="https://github.com/nodiz/github-stats/blob/master/generated/overview.svg" />
 </div>
 
-- 📫 How to reach me: 
-
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nodiz) 
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/niccol%C3%B2-stefanini-71a1a41b8/) 
+- ♜ Come play some chess!
     [<img src='https://github.com/simple-icons/simple-icons/blob/develop/icons/lichess.svg' alt='lichess' height='40'>](https://lichess.org/@/nicostf) 
 
 
