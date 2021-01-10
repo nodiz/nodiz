@@ -2,7 +2,6 @@
 
 
 <div class="row">
-  <img src="https://raw.githubusercontent.com/nodiz/github-stats/master/generated/languages.svg" />
   <img src="https://github.com/nodiz/github-stats/blob/master/generated/overview.svg" />
 </div>
 
